@@ -1,5 +1,37 @@
 # OPR - Riverside Version
 
+## Starting a Game
+### Placing Objectives
+After the table has been prepared, you and your opponent must set up D3+2 objective markers on the battlefield. The players roll-off and the winner picks who places the first objective marker. Then the players alternate in placing one marker each outside of the deployment zones and over 9” away from other markers. *Note that markers can’t be placed in unreachable position, like impassable terrain.*
+### Choosing Deployment Zone and Activation Order
+The players roll-off and the winner chooses either the deployment zone their army deploys on or who activates first, the loser chooses the other.
+
+### Round Phases
+The game consist of 4 Rounds with phases in this order:
+* Round Start
+* Normal Deployment *(Turn 1 only)*
+* Scout Deployment *(Turn 1 only)*
+* Ambush Deployment *(Turns 2-4 only)*
+* Activations
+* Round End
+
+### Deployment
+On round one there are 2 deployment phases, Normal Deployment and Scout Deployment. On rounds 2-4 there is the Ambush Deployment phase.
+
+The player that will activate first in each round deploys the first unit during each phase. Players alternate deploying units during each phase until all units have been deployed.
+
+Units are deployed by placing them inside the boundaries of their commander’s deployment zone.
+
+**Scout**
+
+Units with Scout may be deployed during Scout Deployment and inside 12” outside of the commander’s deployment zone.*
+
+**Ambush**
+
+Units with Ambush may be deployed during the Ambush phase of rounds 2-4. It may be deployed anywhere over 9” away from enemy units.
+
+Units deployed on Round 4 may not contest objective markers.
+
 ## Replacements and Modifiers
 Whenever a modifier applies to one of your rolls, first apply any replacement effects in the order you choose and then apply the modifier.
 
@@ -39,39 +71,6 @@ Notes on Line of Sight:
 - Models may always ignore friendly models from their own unit for the purpose of line of sight.
 - Models always have line of sight to themselves, and may target themselves (unless stated otherwise).
 - Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, Models with Tough 6+ can see and be seen over models with less than Tough 6. *For Heroes, use Tough 12+ instead of Tough 6+.*
-
-
-## Starting a Game
-### Placing Objectives
-After the table has been prepared, you and your opponent must set up D3+2 objective markers on the battlefield. The players roll-off and the winner picks who places the first objective marker. Then the players alternate in placing one marker each outside of the deployment zones and over 9” away from other markers. *Note that markers can’t be placed in unreachable position, like impassable terrain.*
-### Choosing Deployment Zone and Activation Order
-The players roll-off and the winner chooses either the deployment zone their army deploys on or who activates first, the loser chooses the other.
-
-### Round Phases
-The game consist of 4 Rounds with phases in this order:
-* Round Start
-* Normal Deployment *(Turn 1 only)*
-* Scout Deployment *(Turn 1 only)*
-* Ambush Deployment *(Turns 2-4 only)*
-* Activations
-* Round End
-
-### Deployment
-On round one there are 2 deployment phases, Normal Deployment and Scout Deployment. On rounds 2-4 there is the Ambush Deployment phase.
-
-The player that will activate first in each round deploys the first unit during each phase. Players alternate deploying units during each phase until all units have been deployed.
-
-Units are deployed by placing them inside the boundaries of their commander’s deployment zone.
-
-**Scout**
-
-Units with Scout may be deployed during Scout Deployment and inside 12” outside of the commander’s deployment zone.*
-
-**Ambush**
-
-Units with Ambush may be deployed during the Ambush phase of rounds 2-4. It may be deployed anywhere over 9” away from enemy units.
-
-Units deployed on Round 4 may not contest objective markers.
 
 ## Activations
 

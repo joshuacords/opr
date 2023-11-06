@@ -44,7 +44,7 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 ## Shooty, Extra Shooty, and Shock
 If a player rolls a six while making a ranged attack on a unit that has shooty (or extra shooty) and shock the original attack roll is not counted twice.
 
-*Example: An Orc Leader with the trait Gun Freak is equiped with a Shock Gun. While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with shooty, and two additional hits for shock, bringing the total hits to four.*
+*Example: An Orc Leader with the trait Gun Freak (granting it Shooty: When shooting, hits from unmodified rolls of 6 are multiplied by 2 (only the original hit counts as a 6)) is equipped with a Shock Gun (Shock: Unmodified rolls of 6 are multiplied by 3 (only the original hit counts as a 6)). While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with Shooty, and two additional hits for Shock, bringing the total hits to four.*
 
 ## Measuring
 “Within”

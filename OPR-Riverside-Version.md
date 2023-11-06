@@ -41,6 +41,11 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 *Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the success at 5+. Modifiers are then applied setting the success to 9+. Only a natural roll of 6 can succeed.*
 
+## Shooty, Extra Shooty, and Shock
+If a player rolls a six while making a ranged attack on a unit that has shooty (or extra shooty) and shock the original attack roll is not counted twice.
+
+*Example: An Orc Leader with the trait Gun Freak is equiped with a Shock Gun. While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with shooty, and two additional hits for shock, bringing the total hits to four.*
+
 ## Measuring
 “Within”
 

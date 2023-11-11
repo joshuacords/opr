@@ -41,6 +41,26 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 *Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the success at 5+. Modifiers are then applied setting the success to 9+. Only a natural roll of 6 can succeed.*
 
+## Rolling Attacks
+
+## Critical Hit Abilities
+
+Whenever a roll of 6 is made, it Critically Hits.
+
+### Furious
+
+Whenever a model with Furious Critically Hits during its Charge Action, generate 1 bonus hit with that weapon.
+
+### Rending
+
+Units taking hits from weapons with Rending get -1 to Regeneration rolls.
+
+Whenever a Rending weapon Critically Hits, that attack has AP(4). *Note: Bonus hits do not have AP(4).*
+
+### Blast[X]
+
+Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less.
+
 ### Shooty and Shock
 If a player rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".
 

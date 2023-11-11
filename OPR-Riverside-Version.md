@@ -67,7 +67,7 @@ This model and its unit have Shooty. If they already had Shooty, Shooty now Crit
 
 ### Blast[X]
 
-Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less. Multiplied hits retain all properties including those triggered by Critical Hits.
+Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less. Multiplied hits have the same AP and Special Effects as the original, including those triggered by Critical Hits.
 
 ### Shooty and Shock
 If a player rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".

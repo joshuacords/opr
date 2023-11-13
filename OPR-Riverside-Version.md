@@ -2,10 +2,10 @@
 
 ## Starting a Game
 ### Placing Objectives
-After the table has been prepared, you and your opponent must set up D3+2 objective markers on the battlefield. The players roll-off and the winner picks who places the first objective marker. Then the players alternate in placing one marker each outside of the deployment zones and over 9” away from other markers. *Note that markers can’t be placed in unreachable position, like impassable terrain.*
+After the table has been prepared, you and your opponent must set up D3+2 objective markers on the battlefield. The commanders roll-off and the winner picks who places the first objective marker. Then the commanders alternate in placing one marker each outside of the deployment zones and over 9” away from other markers. *Note that markers can’t be placed in unreachable position, like impassable terrain.*
 
 ### Choosing Deployment Zone and Activation Order
-The players roll-off and the winner chooses either the Deployment Zone their army deploys on or who activates first, the loser chooses the other.
+The commanders roll-off and the winner chooses either the Deployment Zone their army deploys on or who activates first, the loser chooses the other.
 
 ### Round Phases
 The game consist of 4 Rounds with phases in this order:
@@ -19,7 +19,7 @@ The game consist of 4 Rounds with phases in this order:
 ### Deployment Phase
 On round one there are 2 deployment phases, Normal Deployment and Scout Deployment. On rounds 2-4 there is the Ambush Deployment phase.
 
-The player that will activate first in each round deploys the first unit during each phase. Players alternate deploying units during each phase until all units have been deployed.
+The commander that will activate first in each round deploys the first unit during each phase. commanders alternate deploying units during each phase until all units have been deployed.
 
 Units are deployed by placing them inside the boundaries of their commander’s Deployment Zone.
 
@@ -47,7 +47,7 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 ## Activation Phase
 
-During the Activation Phase, players alternate Activating their Units until all their Units have been activated. After Round 1, start with the player that finished their activations first last round.
+During the Activation Phase, commanders alternate Activating their Units until all their Units have been activated. After Round 1, start with the commander that finished their activations first last round.
 
 
 
@@ -79,7 +79,7 @@ This model and its unit have Shooty. If they already had Shooty, Shooty now Crit
 Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less. Multiplied hits have the same AP and Special Effects as the original, including those triggered by **Critical Hits**.
 
 ### Shooty and Shock
-If a player rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".
+If a commander rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".
 
 *Example: An Orc Leader with the trait Gun Freak (granting it Shooty: When shooting, hits from unmodified rolls of 6 are multiplied by 2 (only the original hit counts as a 6)) is equipped with a Shock Gun (Shock: Unmodified rolls of 6 are multiplied by 3 (only the original hit counts as a 6)). While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with Shooty, and two additional hits for Shock, bringing the total hits to four.*
 

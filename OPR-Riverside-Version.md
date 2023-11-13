@@ -16,7 +16,7 @@ The game consist of 4 Rounds with phases in this order:
 * Activations
 * Round End
 
-### Deployment
+### Deployment Phase
 On round one there are 2 deployment phases, Normal Deployment and Scout Deployment. On rounds 2-4 there is the Ambush Deployment phase.
 
 The player that will activate first in each round deploys the first unit during each phase. Players alternate deploying units during each phase until all units have been deployed.
@@ -45,11 +45,16 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 *Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the success at 5+. Modifiers are then applied setting the success to 9+. Only a natural roll of 6 can succeed.*
 
+## Activation Phase
+
+During the Activation Phase, players alternate Activating their Units until all their Units have been activated. After Round 1, start with the player that finished their activations first last round.
+
+
+
+
 ## Rolling Attacks
 
 ## Critical Hit Abilities
-
-
 
 ### Furious
 
@@ -95,9 +100,6 @@ Models from a unit may not move or be deployed within 1” of a model of another
 - The other unit is the Transport they are Embarking into
 
 ### Unit Cohesion
-Units are groups of 1 or more models that activate and defend together. Models in a unit must deploy and move together, maintaining Unit Cohesion when given a choice by the Unit’s commander.
-
-Unit Cohesion means:
 - All models in the unit must stay within 1” of another model in the unit, *and*
 - All models in the unit must stay within a 9” diameter or as close as possible.
 
@@ -115,8 +117,6 @@ Notes on Line of Sight:
 - Models always have line of sight to themselves, and may target themselves (unless stated otherwise).
 - Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, **Large Models** can see and be seen over **Small Models**. *For Heroes, use Tough 12+ instead of Tough 6+.*
 
-## Activations
-
 
 ## Terms
 
@@ -131,3 +131,6 @@ Model with Tough (6) and greater, or Hero with greater than Tough (6).
 
 #### Small Model
 Model with less than Tough (6), or Hero with Tough (6) or less.
+
+#### Unit
+Units are groups of 1 or more models that activate and defend together. Models in a unit must deploy and move together, maintaining Unit Cohesion when given a choice by the Unit’s commander.

@@ -51,22 +51,22 @@ During the Activation Phase, commanders alternate Activating their Units until a
 
 ### Activation Actions
 
-- **Hold**: Doesn't move, can shoot.
-- **Advance**: Moves 6" and can shoot after moving.
-- **Rush**: Moves 12".
-- **Charge**: Moves 12" into melee.
+- **Hold**: Doesn't move, uses Ranged Attack.
+- **Advance**: Moves 6", uses Ranged Attack.
+- **Rush**: Moves 12", no attacks
+- **Charge**: Moves 12" into a Melee Attack.
 
 #### Hold Action
-When taking a Hold Action, the models in the unit may not move or turn in any direction.
+When taking a Hold Action, the models in the unit may not move. The unit may use a Ranged Attack.
 
 #### Advance Action
-When taking an Advance Action, all models in the unit may move by up to 6” and turn in any direction. After moving the unit my shoot.
+When taking an Advance Action, all models in the unit may move by up to 6”. After moving the unit may use a Ranged Attack.
 
 #### Rush Action
-When taking an Rush Action, all models in the unit may move by up to 12” and turn in any direction.
+When taking an Rush Action, all models in the unit may move by up to 12”.
 
 #### Charge Action
-When taking a Charge Action the unit chooses an enemy target to melee with. All models in the unit may move by up to 12”, but at least 1 model in the unit must make contact with the target.
+When taking a Charge Action the unit chooses an enemy target to Melee Attack. All models in the unit may move by up to 12”, but at least 1 model in the unit must make contact with the target.
 
 
 ## Rolling Attacks

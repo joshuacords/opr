@@ -49,17 +49,17 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 ### Furious
 
-Whenever a model with Furious rolls a Critical Hit during its Charge Action, generate 1 bonus hit with that weapon.
+Whenever a model with Furious rolls a **Critical Hit** during its Charge Action, generate 1 bonus hit with that weapon.
 
 ### Rending
 
 Units taking hits from weapons with Rending get -1 to Regeneration rolls.
 
-Whenever a Rending weapon rolls a Critical Hit, that hit has AP(4). *Note: This effect does not apply to Bonus hits.*
+Whenever a Rending weapon rolls a **Critical Hit**, that hit has AP(4). *Note: This effect does not apply to Bonus hits.*
 
 ### Shooty
 
-Whenever a model with Shooty rolls a  Critical Hit with a ranged weapon, generate 1 bonus hit with that weapon.
+Whenever a model with Shooty rolls a  **Critical Hit** with a ranged weapon, generate 1 bonus hit with that weapon.
 
 ### Extra Shooty
 
@@ -67,7 +67,7 @@ This model and its unit have Shooty. If they already had Shooty, Shooty now Crit
 
 ### Blast[X]
 
-Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less. Multiplied hits have the same AP and Special Effects as the original, including those triggered by Critical Hits.
+Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less. Multiplied hits have the same AP and Special Effects as the original, including those triggered by **Critical Hits**.
 
 ### Shooty and Shock
 If a player rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".
@@ -103,7 +103,7 @@ Notes on Line of Sight:
 - Models can always see in all directions, regardless of where the miniature is actually facing.
 - Models may always ignore friendly models from their own unit for the purpose of line of sight.
 - Models always have line of sight to themselves, and may target themselves (unless stated otherwise).
-- Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, Models with Tough 6+ can see and be seen over models with less than Tough 6. *For Heroes, use Tough 12+ instead of Tough 6+.*
+- Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, **Large Models** can see and be seen over **Small Models**. *For Heroes, use Tough 12+ instead of Tough 6+.*
 
 ## Activations
 

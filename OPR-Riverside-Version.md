@@ -47,9 +47,11 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 ## Activation Phase
 
-During the Activation Phase, commanders alternate Activating their Units until all their Units have been activated. After Round 1, start with the commander that finished their activations first last round.
+During the Activation Phase, commanders alternate Activating their Units until all their Units have been activated for the Round. After Round 1, start with the commander that finished their activations first last round.
 
 ### Activation Actions
+
+To Activate a Unit have that Unit take an Action.
 
 - **Hold**: Doesn't move; uses Ranged Attack.
 - **Advance**: Moves 6"; uses Ranged Attack.
@@ -70,7 +72,9 @@ When taking an Rush Action, all models in the unit may move by up to 12”.
 When taking a Charge Action the unit chooses an enemy target to Melee Attack. All models in the unit may move by up to 12”, but at least 1 model in the unit must make contact with the target.
 
 #### Idle Action
-When taking the Idle Action remove the Shaken effect and the unit does nothing.
+When taking the Idle Action remove the Shaken condition. The unit may not use any special abilities.
+
+
 
 
 ## Rolling Attacks

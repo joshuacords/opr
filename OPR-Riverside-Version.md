@@ -51,11 +51,11 @@ During the Activation Phase, commanders alternate Activating their Units until a
 
 ### Activation Actions
 
-- **Hold**: Doesn't move, uses Ranged Attack.
-- **Advance**: Moves 6", uses Ranged Attack.
-- **Rush**: Moves 12", no attacks
+- **Hold**: Doesn't move; uses Ranged Attack.
+- **Advance**: Moves 6"; uses Ranged Attack.
+- **Rush**: Moves 12"; no attacks.
 - **Charge**: Moves 12" into a Melee Attack.
-- **Idle**: Remove **Shaken**
+- **Idle**: Remove **Shaken**.
 
 #### Hold Action
 When taking a Hold Action, the models in the unit may not move. The unit may use a Ranged Attack.

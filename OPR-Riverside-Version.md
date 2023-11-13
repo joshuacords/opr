@@ -53,17 +53,17 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 ### Furious
 
-Whenever a model with Furious rolls a **Critical Hit** during its Charge Action, generate 1 bonus hit with that weapon.
+Whenever a model with Furious rolls a **Critical Hit** during its Charge Action, generate 1 **Bonus Hit** with that weapon.
 
 ### Rending
 
 Units taking hits from weapons with Rending get -1 to Regeneration rolls.
 
-Whenever a Rending weapon rolls a **Critical Hit**, that hit has AP(4). *Note: This effect does not apply to Bonus hits.*
+Whenever a Rending weapon rolls a **Critical Hit**, that hit has AP(4). *Note: This effect does not apply to Bonus Hits.*
 
 ### Shooty
 
-Whenever a model with Shooty rolls a  **Critical Hit** with a ranged weapon, generate 1 bonus hit with that weapon.
+Whenever a model with Shooty rolls a  **Critical Hit** with a ranged weapon, generate 1 **Bonus Hit** with that weapon.
 
 ### Extra Shooty
 

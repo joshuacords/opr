@@ -72,8 +72,10 @@ When taking an Rush Action, all models in the unit may move by up to 12”.
 When taking a Charge Action the unit chooses an enemy target to Melee Attack. All models in the unit may move by up to 12”, but at least 1 model in the unit must make contact with the target.
 
 #### Idle Action
-When taking the Idle Action remove the Shaken condition. The unit may not use any special abilities.
+When taking the Idle Action remove the Shaken condition. The unit may not use any Special Abilities.
 
+#### Special Abilities
+Special Abilities such as casting of a Spell may be used during an Action. They maybe used before or after moving and in any order, but must be used before a Ranged or Melee Attack is made.
 
 
 

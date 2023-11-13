@@ -45,7 +45,7 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 ## Critical Hit Abilities
 
-Rolls of 6 are Critical Hits.
+
 
 ### Furious
 
@@ -106,3 +106,15 @@ Notes on Line of Sight:
 - Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, Models with Tough 6+ can see and be seen over models with less than Tough 6. *For Heroes, use Tough 12+ instead of Tough 6+.*
 
 ## Activations
+
+
+## Terms
+
+#### Critical Hit
+Rolls of 6.
+
+#### Large Model
+Model with Tough (6) and greater, or Hero with greater than Tough (6).
+
+#### Small Model
+Model with less than Tough (6), or Hero with Tough (6) or less.

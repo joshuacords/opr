@@ -77,6 +77,16 @@ When taking the Idle Action remove the Shaken condition. The unit may not use an
 #### Special Abilities
 Special Abilities such as casting of a Spell may be used during an Action. They maybe used before or after moving and in any order, but must be used before a Ranged or Melee Attack is made.
 
+## Ranged Attacks
+### Picking Targets and Firing
+Choose one target for each ranged weapon type the unit has. A maximum of 2 different targets may be chosen.
+
+All models with LoS and in range of their target may fire.
+
+### Determining Cover
+For each model, if more than half of the targeted unit is not in LoS, or in the case of single model units - more than half of the unit is hidden, that target has **Cover**. 
+
+
 
 
 ## Rolling Attacks

@@ -82,6 +82,18 @@ If a player rolls a six while making a ranged attack on a unit that has Shooty a
 “Within”
 
 ## Movement
+
+- Bases may not overlap or stack.
+- 1" Spacing must be maintained throughout the movement path.
+- When measuring movement around corners, you may consider your unit as a point.
+- When passing between 2 objects, the model must be able to fit and maintain 1" Spacing.
+
+### 1” Spacing
+
+Models from a unit may not move or be deployed within 1” of a model of another unit unless:
+- That other unit is the target of their Charge, *or*
+- The other unit is the Transport they are Embarking into
+
 ### Unit Cohesion
 Units are groups of 1 or more models that activate and defend together. Models in a unit must deploy and move together, maintaining Unit Cohesion when given a choice by the Unit’s commander.
 
@@ -90,12 +102,6 @@ Unit Cohesion means:
 - All models in the unit must stay within a 9” diameter or as close as possible.
 
 If Unit Cohesion is broken for a Unit, it must be moved back into Unit Cohesion by that Unit’s commander the next time they have the option of moving the unit.
-
-### 1” Spacing
-
-Models from a unit may not move or be deployed within 1” of a model of another unit unless:
-- That other unit is the target of their Charge, *or*
-- The other unit is the Transport they are Embarking into
 
 
 ## Line of Sight (LoS)

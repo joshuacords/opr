@@ -3,8 +3,9 @@
 ## Starting a Game
 ### Placing Objectives
 After the table has been prepared, you and your opponent must set up D3+2 objective markers on the battlefield. The players roll-off and the winner picks who places the first objective marker. Then the players alternate in placing one marker each outside of the deployment zones and over 9” away from other markers. *Note that markers can’t be placed in unreachable position, like impassable terrain.*
+
 ### Choosing Deployment Zone and Activation Order
-The players roll-off and the winner chooses either the deployment zone their army deploys on or who activates first, the loser chooses the other.
+The players roll-off and the winner chooses either the Deployment Zone their army deploys on or who activates first, the loser chooses the other.
 
 ### Round Phases
 The game consist of 4 Rounds with phases in this order:
@@ -20,15 +21,18 @@ On round one there are 2 deployment phases, Normal Deployment and Scout Deployme
 
 The player that will activate first in each round deploys the first unit during each phase. Players alternate deploying units during each phase until all units have been deployed.
 
-Units are deployed by placing them inside the boundaries of their commander’s deployment zone.
+Units are deployed by placing them inside the boundaries of their commander’s Deployment Zone.
 
-**Scout**
+**Scout Deployment**
 
-Units with Scout may be deployed during Scout Deployment and inside 12” outside of the commander’s deployment zone.*
+The Scout Deployment Zone is 12" beyond the boundaries of the commander's Deployment Zone.
 
-**Ambush**
+Units with Scout may be deployed during the Scout Deployment phase during which they use the commander’s Scout Deployment Zone.
 
-Units with Ambush may be deployed during the Ambush phase of rounds 2-4. It may be deployed anywhere over 9” away from enemy units.
+
+**Ambush Deployment**
+
+Units with Ambush may be deployed during the Ambush phase of rounds 2-4, during which they may be deployed anywhere over 9” away from enemy units.
 
 Units deployed on Round 4 may not contest objective markers.
 

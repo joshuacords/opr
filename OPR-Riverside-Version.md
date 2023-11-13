@@ -49,7 +49,24 @@ No matter the modifiers, a natural roll of 1 is always a failure and a natural r
 
 During the Activation Phase, commanders alternate Activating their Units until all their Units have been activated. After Round 1, start with the commander that finished their activations first last round.
 
+### Activation Actions
 
+- **Hold**: Doesn't move, can shoot.
+- **Advance**: Moves 6" and can shoot after moving.
+- **Rush**: Moves 12".
+- **Charge**: Moves 12" into melee.
+
+#### Hold Action
+When taking a Hold Action, the models in the unit may not move or turn in any direction.
+
+#### Advance Action
+When taking an Advance Action, all models in the unit may move by up to 6” and turn in any direction. After moving the unit my shoot.
+
+#### Rush Action
+When taking an Rush Action, all models in the unit may move by up to 12” and turn in any direction.
+
+#### Charge Action
+When taking a Charge Action the unit chooses an enemy target to melee with. All models in the unit may move by up to 12”, but at least 1 model in the unit must make contact with the target.
 
 
 ## Rolling Attacks

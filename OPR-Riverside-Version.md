@@ -69,7 +69,7 @@ When taking an Advance Action, all models in the unit may move by up to 6”. Af
 When taking an Rush Action, all models in the unit may move by up to 12”.
 
 #### Charge Action
-When taking a Charge Action the unit chooses an enemy target to Melee Attack. All models in the unit may move by up to 12”, but at least 1 model in the unit must make contact with the target.
+When taking a Charge Action the unit chooses an enemy unit to target with a Melee Attack. All models in the unit must move by up to 12” to get in base contact with the target, or as close as possible. At least 1 model in the unit must be able to make contact with the target unit to Charge.
 
 #### Idle Action
 When taking the Idle Action remove the Shaken condition. The unit may not use any Special Abilities.
@@ -87,7 +87,7 @@ Special Abilities such as casting of a Spell may be used during an Action. They 
 ### Choose Targets
 Choose one target for each ranged weapon type the unit has. A maximum of 2 different targets may be chosen.
 
-All models with LoS and in range of their target may fire.
+All models with LoS and with ranged weapons in range of their target may attack with those weapons.
 
 ### Determine Cover
 For each model, if more than half of the targeted unit is not in LoS, or in the case of single model units - more than half of the unit is hidden, that target has **Cover** from the model's attack.
@@ -98,11 +98,34 @@ See **Resolving Attacks**.
 ### Morale Check
 If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
 
+## Melee Attacks
+
+1. Movement
+2. Determine Attacks
+3. Resolve Attacks
+4. Return Strikes
+4. Morale Check
+
+### Movement
+Once all models in the Charging unit have moved, all models in the targeted unit that are not in base contact with it must move by up to 3" to get into base contant or as close as possible.
+
+### Determine Attacks
+All models in the Charging unit within 2" of the targeted enemy may attack with their melee weapons.
+
+### Resolve Attacks
+See **Resolving Attacks**.
+
+### Return Strikes
+The defending unit may choose to strike back. If so, all defending models ...
+
+### Morale Check
+If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
+
 
 ## Resolving Attacks
 
 ### Roll Attacks
-For each target unit, roll all attacks of models firing on that unit. Use the model's Quality for the base difficulty. Each successful roll counts as a Hit.
+For each target unit, roll all weapon attacks against that unit. Use the weapon's model's Quality for the base difficulty. Each successful roll counts as a Hit.
 
 ### Roll Defense
 For every Hit, the targeted unit rolls a die to defend, using its Defense for the base difficulty. A success discards the Hit, a failure causes 1 Wound to the target.

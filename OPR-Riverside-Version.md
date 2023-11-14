@@ -19,40 +19,25 @@ The game consist of 4 Rounds with phases in this order:
 ### Deployment Phase
 On round one there are 2 deployment phases, Normal Deployment and Scout Deployment. On rounds 2-4 there is the Ambush Deployment phase.
 
-The commander that will activate first in each round deploys the first unit during each phase. commanders alternate deploying units during each phase until all units have been deployed.
+The commander that will activate first in each round deploys the first unit during each phase. Commanders alternate deploying units during each phase until all units have been deployed.
 
 Units are deployed by placing them inside the boundaries of their commander’s Deployment Zone.
 
-**Scout Deployment**
-
+#### Scout Deployment
 The Scout Deployment Zone is 12" beyond the boundaries of the commander's Deployment Zone.
 
 Units with Scout may be deployed during the Scout Deployment phase during which they use the commander’s Scout Deployment Zone.
 
-
-**Ambush Deployment**
-
+#### Ambush Deployment
 Units with Ambush may be deployed during the Ambush phase of rounds 2-4, during which they may be deployed anywhere over 9” away from enemy units.
 
 Units deployed on Round 4 may not contest objective markers.
 
-## Replacements and Modifiers
-Whenever a modifier applies to one of your rolls, first apply any replacement effects in the order you choose and then apply the modifier.
-
-No matter the modifiers, a natural roll of 1 is always a failure and a natural roll of 6 is always a success.
-
-*Example 1: A model with Quality 5+ and Good Shot fires a Reliable weapon at a unit with Stealth applied. The Quality 5 sets the success at 5+. Replacement effects are then applied: Good shot replaces this to 4+, then Reliable replaces this to 2+. Now Modifiers are applied and Stealth changes success to 3+.*
-
-*Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the success at 5+. Modifiers are then applied setting the success to 9+. Only a natural roll of 6 can succeed.*
-
 ## Activation Phase
-
 During the Activation Phase, commanders alternate Activating their Units until all their Units have been activated for the Round. After Round 1, start with the commander that finished their activations first last round.
 
 ### Activation Actions
-
 To Activate a Unit have that Unit take an Action.
-
 - **Hold**: Doesn't move; uses Ranged Attack.
 - **Advance**: Moves 6"; uses Ranged Attack.
 - **Rush**: Moves 12"; no attacks.
@@ -75,10 +60,42 @@ When taking a Charge Action the unit chooses an enemy unit to target with a Mele
 When taking the Idle Action remove the Shaken condition. The unit may not use any Special Abilities.
 
 #### Special Abilities
-Special Abilities such as casting of a Spell may be used during an Action. They maybe used before or after moving and in any order, but must be used before a Ranged or Melee Attack is made.
+Special Abilities such as the casting of a Spell may be used during an Activation Action. They may be used before or after moving and in any order, but must be used before a Ranged or Melee Attack is made.
+
+## Measuring
+“Within”
+
+## Movement
+- Bases may not overlap or stack.
+- 1" Spacing must be maintained throughout the movement path.
+- When measuring movement around corners, you may consider your unit as a point.
+- When passing between 2 objects, the model must be able to fit and maintain 1" Spacing.
+
+### 1” Spacing
+Models from a unit may not move or be deployed within 1” of a model of another unit unless:
+- That other unit is the target of their Charge, *or*
+- The other unit is the Transport they are Embarking into
+
+### Unit Cohesion
+- All models in the unit must stay within 1” of another model in the unit, *and*
+- All models in the unit must stay within a 9” diameter or as close as possible.
+
+Given the choice, commanders must maintain Unit Cohesion.
+
+If Unit Cohesion is broken for a Unit, it must be moved back into Unit Cohesion by that Unit’s commander the next time they have the option to move the unit.
+
+## Line of Sight (LoS)
+When playing the game, Line of Sight is used to determine if a model can see another model for any purpose.
+
+To determine if a model has LoS on a second model, see if at least 10% of the second model is visible from the center of the first model. Using the second model’s base is the best way to do this, but in cases the base is obscured fallback to considering if at least 10% of the second model’s main body is visible to the first model (disregard appendages, horns, flags, antennae, etc).
+
+Notes on Line of Sight:
+- Models can always see in all directions, regardless of where the miniature is actually facing.
+- Models may always ignore friendly models from their own unit for the purpose of LoS.
+- Models have LoS to themselves, and may target themselves.
+- Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, **Large Models** can see and be seen over **Small Models**.
 
 ## Ranged Attacks
-
 1. Choose Targets
 2. Determine Cover
 3. Resolve Attacks
@@ -145,81 +162,57 @@ After all defense rolls have been made, the defending player chooses which model
 
 A model may not be assigned more than 1 wound or if it has Tough, more wounds than its Tough value. Once it has been assigned its maximum wounds it is removed as a Casualty.
 
-## Rolling Attacks
+## Rolling Dice
+## Replacements and Modifiers
+Whenever a modifier applies to one of your rolls, first apply any replacement effects in the order you choose and then apply the modifier.
+
+No matter the modifiers, a natural roll of 1 is always a failure and a natural roll of 6 is always a success.
+
+*Example 1: A model with Quality 5+ and Good Shot fires a Reliable weapon at a unit with Stealth applied. The Quality 5 sets the success at 5+. Replacement effects are then applied: Good shot replaces this to 4+, then Reliable replaces this to 2+. Now Modifiers are applied and Stealth changes success to 3+.*
+
+*Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the success at 5+. Modifiers are then applied setting the success to 9+. Only a natural roll of 6 can succeed.*
 
 ## Critical Hit Abilities
 
 #### Critical Hit
 Rolls of 6. If an ability extends Critical Hits to 5, that roll must succeed to trigger Critical Hit Effects.
 
-### Furious
+#### Bonus Hit
+A bonus hit is an automatic hit that’s a copy of the hit that generated it except it can’t Critically Hit and never has any Critical Hit effects.
 
+### Furious
 Whenever a model with Furious rolls a **Critical Hit** during its Charge Action, that weapon generates 1 **Bonus Hit**.
 
 ### Rending
-
 Regeneration rolls against wounds from this weapon have -1.
 
 When this weapon rolls a **Critical Hit**, that hit has AP(4). *Note: This effect does not apply to Bonus Hits.*
 
 ### Shooty
-
 Whenever a model with Shooty rolls a  **Critical Hit** with a ranged weapon, that weapon generates 1 **Bonus Hit**.
 
 ### Extra Shooty
-
 This model and its unit have Shooty. If they already had Shooty, Shooty now Critically Hits on a 5 or 6.
 
 ### Blast[X]
+Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less.
 
-Weapons with Blast ignore cover. Multiply each hit by X or by the number of models in the target unit, whichever is less. Multiplied hits have the same AP and Special Effects as the original, including those triggered by **Critical Hits**.
+Multiplied hits have the same AP and Special Effects as the original, including those triggered by **Critical Hits**.
+
+Bonus Hits do copy Blast.
 
 ### Shooty and Shock
 If a commander rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".
 
 *Example: An Orc Leader with the trait Gun Freak (granting it Shooty: When shooting, hits from unmodified rolls of 6 are multiplied by 2 (only the original hit counts as a 6)) is equipped with a Shock Gun (Shock: Unmodified rolls of 6 are multiplied by 3 (only the original hit counts as a 6)). While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with Shooty, and two additional hits for Shock, bringing the total hits to four.*
 
-## Measuring
-“Within”
-
-## Movement
-
-- Bases may not overlap or stack.
-- 1" Spacing must be maintained throughout the movement path.
-- When measuring movement around corners, you may consider your unit as a point.
-- When passing between 2 objects, the model must be able to fit and maintain 1" Spacing.
-
-### 1” Spacing
-
-Models from a unit may not move or be deployed within 1” of a model of another unit unless:
-- That other unit is the target of their Charge, *or*
-- The other unit is the Transport they are Embarking into
-
-### Unit Cohesion
-- All models in the unit must stay within 1” of another model in the unit, *and*
-- All models in the unit must stay within a 9” diameter or as close as possible.
-
-Given the choice, commanders must maintain Unit Cohesion.
-
-If Unit Cohesion is broken for a Unit, it must be moved back into Unit Cohesion by that Unit’s commander the next time they have the option to move the unit.
 
 
-## Line of Sight (LoS)
-When playing the game, Line of Sight is used to determine if a model can see another model for any purpose.
-
-To determine if a model has LoS on a second model, see if at least 10% of the second model is visible from the center of the first model. Using the second model’s base is the best way to do this, but in cases the base is obscured fallback to considering if at least 10% of the second model’s main body is visible to the first model (disregard appendages, horns, flags, antennae, etc).
-
-Notes on Line of Sight:
-- Models can always see in all directions, regardless of where the miniature is actually facing.
-- Models may always ignore friendly models from their own unit for the purpose of line of sight.
-- Models always have line of sight to themselves, and may target themselves (unless stated otherwise).
-- Models may not see through solid obstacles, including the perimeter of other units, friendly or enemy. However, **Large Models** can see and be seen over **Small Models**. *For Heroes, use Tough 12+ instead of Tough 6+.*
 
 
 ## Terms
 
-#### Bonus Hit
-A bonus hit is an automatic hit that’s identical to the hit that generated it except it can’t Critically Hit and never has any Critical Hit effects.
+
 
 #### Cover
 Units with Cover get +1 to Defense.

@@ -74,7 +74,7 @@ When taking the Idle Action remove the Shaken condition. The unit may not use an
 Special Abilities such as the casting of a Spell may be used during an Activation Action. They may be used before or after moving and in any order, but must be used before a Ranged or Melee Attack is made.
 
 ## Measuring
-“Within”
+
 
 ## Movement
 - Bases may not overlap or stack.
@@ -127,7 +127,6 @@ See **Resolving Attacks**.
 See **Morale Test**.
 
 ## Melee Attacks
-
 1. Movement
 2. Determine Attacks
 3. Resolve Attacks
@@ -135,7 +134,7 @@ See **Morale Test**.
 4. Morale Test
 
 ### Movement
-Once all models in the Charging unit have moved, all models in the targeted unit that are not in base contact with it must move by up to 3" to get into base contant or as close as possible.
+Once all models in the Charging unit have moved, all models in the targeted unit that are not in base contact with it must move by up to 3" to get into base contact or as close as possible.
 
 ### Determine Attacks
 All models in the Charging unit within 2" of the targeted enemy attack with their melee weapons.

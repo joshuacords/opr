@@ -82,7 +82,7 @@ Special Abilities such as casting of a Spell may be used during an Action. They 
 1. Choose Targets
 2. Determine Cover
 3. Resolve Attacks
-4. Morale Check
+4. Morale Test
 
 ### Choose Targets
 Choose one target for each ranged weapon type the unit has. A maximum of 2 different targets may be chosen.
@@ -95,7 +95,7 @@ For each model, if more than half of the targeted unit is not in LoS, or in the 
 ### Resolve Attacks
 See **Resolving Attacks**.
 
-### Morale Check
+### Morale Test
 If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
 
 ## Melee Attacks
@@ -104,23 +104,29 @@ If half or less of the models in a unit remain from the amount it started the ga
 2. Determine Attacks
 3. Resolve Attacks
 4. Return Strikes
-4. Morale Check
+4. Morale Test
 
 ### Movement
 Once all models in the Charging unit have moved, all models in the targeted unit that are not in base contact with it must move by up to 3" to get into base contant or as close as possible.
 
 ### Determine Attacks
-All models in the Charging unit within 2" of the targeted enemy may attack with their melee weapons.
+All models in the Charging unit within 2" of the targeted enemy attack with their melee weapons.
 
 ### Resolve Attacks
 See **Resolving Attacks**.
 
 ### Return Strikes
-The defending unit may choose to strike back. If so, all defending models ...
+The defending unit may choose to strike back. If so, all defending models within 2" of the Charging unit attack with their melee weapons. Resolve their attacks: **Resolving Attacks**.
 
-### Morale Check
-If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
+### Morale Test
+Units in melee don’t take morale tests from wounds, instead compare the number of wounds each unit caused. The unit with the lowest total loses, and must take a **Morale Test** unless the opposing unit was destroyed.
 
+Results of the Morale Test
+- *Success*: nothing happens.
+- *Failure*: If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit **Routs** and is removed from the game, otherwise the unit is **Shaken**.
+
+#### Fatigue
+After attacking with a melee weapon by Charging or striking back, a unit is Fatigued and their melee attacks only succeed on rolls of 6 for the rest of the round.
 
 ## Resolving Attacks
 

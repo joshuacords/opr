@@ -117,6 +117,9 @@ If half or less of the models in a unit remain from the amount it started the ga
 
 ## Critical Hit Abilities
 
+#### Critical Hit
+Rolls of 6. If an ability extends Critical Hits to 5, that roll must succeed to trigger Critical Hit Effects.
+
 ### Furious
 
 Whenever a model with Furious rolls a **Critical Hit** during its Charge Action, that weapon generates 1 **Bonus Hit**.
@@ -133,7 +136,7 @@ Whenever a model with Shooty rolls a  **Critical Hit** with a ranged weapon, tha
 
 ### Extra Shooty
 
-This model and its unit have Shooty. If they already had Shooty, instead they have: Whenever this model hits with a 5 or a 6 with a ranged weapon, that weapon generates a bonus hit.
+This model and its unit have Shooty. If they already had Shooty, Shooty now Critically Hits on a 5 or 6.
 
 ### Blast[X]
 
@@ -188,9 +191,6 @@ A bonus hit is an automatic hit that’s identical to the hit that generated it 
 
 #### Cover
 Units with Cover get +1 to Defense.
-
-#### Critical Hit
-Rolls of 6.
 
 #### Fatigued
 When meleeing, models only hit on a roll of 6.

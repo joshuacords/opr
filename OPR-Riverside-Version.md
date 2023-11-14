@@ -224,10 +224,66 @@ If half or less of the models in a unit remain from the amount it started the ga
 
 To take a Morale Test, the unit rolls a Quality Test. **Shaken** units always fail Morale Tests.
 
-## Terms
 
+## Terrain
+Each piece of terrain may count as having multiple terrain types, and you may also add other conditions to further customize your terrain rules.
+
+### Terrain Types
+#### Open Terrain
+Any surface not specifically defined. Open terrain has no special rules.
+
+#### Cover Terrain
+If more than half of the models of a unit are in or behind Cover Terrain, or in the case of single model units - if more than half of the unit's base is within or behind Cover Terrain, that unit has **Cover**.
+
+#### Dangerous Terrain
+If a model moves in or through Dangerous Terrain with a Rush or Charge Action, then it takes a dangerous terrain test.
+
+To take a dangerous terrain test, roll one die, and if the result is 1 the unit takes one automatic wound.
+
+If there are models with the Tough(X) rule in the unit, then you must roll X dice instead of 1 die.
+
+#### Difficult Terrain
+If any model in a unit moves in or through difficult terrain at any point of its move, then all models in the unit may not move more than 6” for that movement.
+
+#### Elevated Terrain
+Models using a Ranged Attack from Elevated Terrain higher than their target gain a bonus. They may consider LoS Blocking Terrain as only giving Cover to their target, **or** they may ignore Cover granted to their target by Terrain.
+
+#### Impassable Terrain
+Units may not move through impassable terrain.
+
+#### LoS Blocking Terrain
+Units may not draw Line of Sight through LoS Blocking Terrain.
+
+### Terrain Grouping
+#### Barricade
+Difficult Terrain for **Large models**. Cover Terrain for units behind the Barricade when over 1" from Barricade.
+
+#### Forest
+Cover Terrain. LoS Blocking terrain for units behind the Forest.
+
+#### Forest Wall
+LoS Blocking terrain for units behind the Forest Wall. Units cannot be within the Forest Wall.
+
+#### Lakes
+Dangerous Terrain.
+
+#### Hills
+Elevated Terrain for models on top. Cover Terrain for models behind.
+
+#### Ramps
+Difficult Terrain.
+
+#### Ruins
+Cover Terrain. Difficult Terrain.
+
+### Terrain Movement
+Units may climb terrain up to 3" tall as part of its movement. Measure the distance vertically.
+
+Models may not end their movement on unstable terrain such as Barricades.
+
+## Terms
 #### Cover
-Units with Cover get +1 to Defense.
+Units with Cover get +1 to Defense against Ranged weapons. Cover does not stack.
 
 #### Fatigued
 When using melee weapons, fatigued units only hit on a roll of 6. Fatigue is removed at the Beginnning of each Round.

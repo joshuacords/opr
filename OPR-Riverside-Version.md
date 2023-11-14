@@ -81,10 +81,8 @@ Special Abilities such as casting of a Spell may be used during an Action. They 
 
 1. Choose Targets
 2. Determine Cover
-3. Roll Attacks
-4. Roll Defense
-5. Remove Casualties
-6. Morale Check
+3. Resolve Attacks
+4. Morale Check
 
 ### Choose Targets
 Choose one target for each ranged weapon type the unit has. A maximum of 2 different targets may be chosen.
@@ -93,6 +91,15 @@ All models with LoS and in range of their target may fire.
 
 ### Determine Cover
 For each model, if more than half of the targeted unit is not in LoS, or in the case of single model units - more than half of the unit is hidden, that target has **Cover** from the model's attack.
+
+### Resolve Attacks
+See **Resolving Attacks**.
+
+### Morale Check
+If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
+
+
+## Resolving Attacks
 
 ### Roll Attacks
 For each target unit, roll all attacks of models firing on that unit. Use the model's Quality for the base difficulty. Each successful roll counts as a Hit.
@@ -108,10 +115,6 @@ After all defense rolls have been made, the defending player chooses which model
 4. Hero Units
 
 A model may not be assigned more than 1 wound or if it has Tough, more wounds than its Tough value. Once it has been assigned its maximum wounds it is removed as a Casualty.
-
-### Morale Check
-If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
-
 
 ## Rolling Attacks
 

@@ -9,12 +9,16 @@ The commanders roll-off and the winner chooses either the Deployment Zone their 
 
 ### Round Phases
 The game consist of 4 Rounds with phases in this order:
-* Round Start
-* Normal Deployment *(Turn 1 only)*
-* Scout Deployment *(Turn 1 only)*
-* Ambush Deployment *(Turns 2-4 only)*
-* Activations
-* Round End
+* Beginning Phase
+* Deployment Phases
+** Normal Deployment *(Turn 1 only)*
+** Scout Deployment *(Turn 1 only)*
+** Ambush Deployment *(Turns 2-4 only)*
+* Activation Phase
+* End Phase
+
+### Beginning Phase
+At the start of each Round Casters receive spell tokens and units are not longer Fatigued.
 
 ### Deployment Phase
 On round one there are 2 deployment phases, Normal Deployment and Scout Deployment. On rounds 2-4 there is the Ambush Deployment phase.
@@ -32,6 +36,13 @@ Units with Scout may be deployed during the Scout Deployment phase during which 
 Units with Ambush may be deployed during the Ambush phase of rounds 2-4, during which they may be deployed anywhere over 9” away from enemy units.
 
 Units deployed on Round 4 may not contest objective markers.
+
+## End Phase
+At the end of each turn if a commander has a non-Shaken unit within 3" of an objective then that commander now controls the objective. If multiple commanders have non-Shaken units within 3" of an objective,  the objective returns to neutral control.
+
+Leaving an objective does not stop them from being controlled.
+
+**After the end of Round 4, the commander controlling the most objectives wins.**
 
 ## Activation Phase
 During the Activation Phase, commanders alternate Activating their Units until all their Units have been activated for the Round. After Round 1, start with the commander that finished their activations first last round.

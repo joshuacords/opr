@@ -124,7 +124,7 @@ For each model, if more than half of the targeted unit is not in LoS, or in the 
 See **Resolving Attacks**.
 
 ### Morale Test
-If half or less of the models in a unit remain from the amount it started the game with, or with a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
+See **Morale Test**.
 
 ## Melee Attacks
 
@@ -217,19 +217,20 @@ If a commander rolls a six while making a ranged attack on a unit that has Shoot
 
 *Example: An Orc Leader with the trait Gun Freak (granting it Shooty: When shooting, hits from unmodified rolls of 6 are multiplied by 2 (only the original hit counts as a 6)) is equipped with a Shock Gun (Shock: Unmodified rolls of 6 are multiplied by 3 (only the original hit counts as a 6)). While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with Shooty, and two additional hits for Shock, bringing the total hits to four.*
 
+## Morale Tests
+Whenever a unit takes a wound from a spell, ability, or after Resolving Attacks outside a Charge Action, a Morale Test may be necessary.
 
+If half or less of the models in a unit remain from the amount it started the game with, or for a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
 
-
+To take a Morale Test, the unit rolls a Quality Test. **Shaken** units always fail Morale Tests.
 
 ## Terms
-
-
 
 #### Cover
 Units with Cover get +1 to Defense.
 
 #### Fatigued
-When meleeing, models only hit on a roll of 6.
+When using melee weapons, fatigued units only hit on a roll of 6. Fatigue is removed at the Beginnning of each Round.
 
 #### Move
 Only when a model is moved may it change its position and orientation.

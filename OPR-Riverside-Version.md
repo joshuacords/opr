@@ -174,17 +174,21 @@ After all defense rolls have been made, the defending player chooses which model
 A model may not be assigned more than 1 wound or if it has Tough, more wounds than its Tough value. Once it has been assigned its maximum wounds it is removed as a Casualty.
 
 ## Rolling Dice
-## Replacements and Modifiers
-Whenever a modifier applies to one of your rolls, first apply any replacement effects in the order you choose and then apply the modifier.
+Attacking, Morale Tests, and other checks use dice to determine their success or failure.
 
-No matter the modifiers, a natural roll of 1 is always a failure and a natural roll of 6 is always a success.
+When rolling, the die roll is successful  if the die result is greater than or equals the difficulty.  
 
-*Example 1: A model with Quality 5+ and Good Shot fires a Reliable weapon at a unit with Stealth applied. The Quality 5 sets the success at 5+. Replacement effects are then applied: Good shot replaces this to 4+, then Reliable replaces this to 2+. Now Modifiers are applied and Stealth changes success to 3+.*
+To determine the difficulty, start with the base difficulty. Then apply any replacement effects in the order you choose. Last apply any modifiers.
 
-*Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the success at 5+. Modifiers are then applied setting the success to 9+. Only a natural roll of 6 can succeed.*
+Modifiers lower the difficulty of the die roll. *For example, a unit has Defense 4 giving the roll a base difficulty of 4+. But the unit also has Cover applying +1 to Defense. The difficulty is now 3+ and a die result of 3 would successfully defend.*
 
-## Critical Hit Abilities
+No matter the modifiers, a roll of 1 is always a failure and a roll of 6 is always a success.
 
+*Example 1: A model with Quality 5 and Good Shot fires a Reliable weapon at a unit with Stealth applied. The Quality 5 sets the success at 5+. Replacement effects are then applied: Good shot replaces this to 4+, then Reliable replaces this to 2+. Now Modifiers are applied and Stealth changes success to 3+.*
+
+*Example 2: A weapon with AP 4 hit a Def 4 model. Defense 4 sets the difficulty at 5+. Modifiers are then applied setting the difficulty to 9+. Only a natural roll of 6 can succeed.*
+
+### Critical Hit Abilities
 #### Critical Hit
 Rolls of 6. If an ability extends Critical Hits to 5, that roll must succeed to trigger Critical Hit Effects.
 
@@ -223,7 +227,6 @@ Whenever a unit takes a wound from a spell, ability, or after Resolving Attacks 
 If half or less of the models in a unit remain from the amount it started the game with, or for a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
 
 To take a Morale Test, the unit rolls a Quality Test. **Shaken** units always fail Morale Tests.
-
 
 ## Terrain
 Each piece of terrain may count as having multiple terrain types, and you may also add other conditions to further customize your terrain rules.
@@ -286,7 +289,7 @@ Models may not end their movement on unstable terrain such as Barricades.
 Units with Cover get +1 to Defense against Ranged weapons. Cover does not stack.
 
 #### Fatigued
-When using melee weapons, fatigued units only hit on a roll of 6. Fatigue is removed at the Beginnning of each Round.
+When using melee weapons, fatigued units only hit on a roll of 6. Fatigue is removed at the Beginning of each Round.
 
 #### Move
 Only when a model is moved may it change its position and orientation.

@@ -75,7 +75,6 @@ Special Abilities such as the casting of a Spell may be used during an Activatio
 
 ## Measuring
 
-
 ## Movement
 - Bases may not overlap or stack.
 - 1" Spacing must be maintained throughout the movement path.
@@ -172,6 +171,13 @@ After all defense rolls have been made, the defending player chooses which model
 
 A model may not be assigned more than 1 wound or if it has Tough, more wounds than its Tough value. Once it has been assigned its maximum wounds it is removed as a Casualty.
 
+## Morale Tests
+Whenever a unit takes a wound from a spell, ability, or after Resolving Attacks outside a Charge Action, a Morale Test may be necessary.
+
+If half or less of the models in a unit remain from the amount it started the game with, or for a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
+
+To take a Morale Test, the unit rolls a Quality Test. **Shaken** units always fail Morale Tests.
+
 ## Rolling Dice
 Attacking, Morale Tests, and other checks use dice to determine their success or failure.
 
@@ -219,13 +225,6 @@ Bonus Hits do copy Blast.
 If a commander rolls a six while making a ranged attack on a unit that has Shooty and Shock the multiples are not chained and would be better worded as "generates an additional attack" or "generates 2 additional attacks".
 
 *Example: An Orc Leader with the trait Gun Freak (granting it Shooty: When shooting, hits from unmodified rolls of 6 are multiplied by 2 (only the original hit counts as a 6)) is equipped with a Shock Gun (Shock: Unmodified rolls of 6 are multiplied by 3 (only the original hit counts as a 6)). While making a ranged attack the model rolls a 6. The attack generates one hit for the initial roll, one additional hit with Shooty, and two additional hits for Shock, bringing the total hits to four.*
-
-## Morale Tests
-Whenever a unit takes a wound from a spell, ability, or after Resolving Attacks outside a Charge Action, a Morale Test may be necessary.
-
-If half or less of the models in a unit remain from the amount it started the game with, or for a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
-
-To take a Morale Test, the unit rolls a Quality Test. **Shaken** units always fail Morale Tests.
 
 ## Terrain
 Each piece of terrain may count as having multiple terrain types, and you may also add other conditions to further customize your terrain rules.

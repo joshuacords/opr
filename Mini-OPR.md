@@ -91,7 +91,8 @@ See **Morale Test**.
 2. Determine Attacks
 3. Resolve Attacks
 4. Return Strikes
-4. Morale Test
+5. Morale Test
+6. Consolidation Moves
 
 ### Movement
 Once all models in the Charging unit have moved, all models in the targeted unit that are not in base contact with it must move by up to 3" to get into base contact or as close as possible.
@@ -114,6 +115,11 @@ Results of the Morale Test
 
 #### Fatigue
 After attacking with a melee weapon by Charging or striking back, a unit is **Fatigued**.
+
+#### Consolidation Moves
+If one of the units was destroyed or Routs the other unit may move up to 3".
+
+If both units survive the melee, the Charging unit moves up to 1" back from the defending unit to maintain 1" spacing.
 
 ## Resolving Attacks
 ### Roll Attacks

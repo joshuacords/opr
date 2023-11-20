@@ -140,6 +140,8 @@ A model may not be assigned more than 1 wound or if it has Tough, more wounds th
 ## Morale Tests
 Whenever a unit takes a wound from a spell, ability, or after Resolving Attacks outside a Charge Action, a Morale Test may be necessary.
 
+Abilities that trigger or activate as part of an attack (ie: Impact, Take Down) apply their wounds during that attack's resolution and do not trigger a separate Morale Test.
+
 If half or less of the models in a unit remain from the amount it started the game with, or for a single model unit - if it has taken at least half of its Tough value in wounds, the unit takes a **Morale Test**. If the test fails, the unit is **Shaken**.
 
 To take a Morale Test, the unit rolls a Quality Test. **Shaken** units always fail Morale Tests.

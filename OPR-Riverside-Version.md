@@ -310,5 +310,8 @@ Model with less than Tough (6), or Hero with Tough (6) or less.
 Units are groups of 1 or more models that activate and defend together. Models in a unit must deploy and move together, maintaining Unit Cohesion when given a choice by the Unit’s commander.
 
 ## Special Rules
+#### Flying
+Models with this special rule may move through units and terrain, and may ignore terrain effects when moving. When measuring ignore elevation changes and measure as if the board was flat.
+
 #### Teleport
 Once per activation, before attack, place this unit anywhere within 6". This may be used during the unit's movement.

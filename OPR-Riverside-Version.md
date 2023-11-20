@@ -291,6 +291,9 @@ Units with Cover get +1 to Defense against Ranged weapons. Cover does not stack.
 #### Fatigued
 When using melee weapons, fatigued units only hit on a roll of 6. Fatigue is removed at the Beginning of each Round.
 
+#### Infantry
+Models with no Tough or Heroes with up to Tough 3.
+
 #### Move
 Only when a model is moved may it change its position and orientation.
 

@@ -74,6 +74,13 @@ When taking the Idle Action remove the Shaken condition. The unit may not use an
 Special Abilities such as the casting of a Spell may be used during an Activation Action. They may be used before or after moving and in any order, but must be used before a Ranged or Melee Attack is made.
 
 ## Measuring
+Distances are usually measured from a model’s base, however if a model has no base, then all distances are measured from
+the edges of the model's main body.
+
+When measuring the distance between two models you always measure from/to the closest point of their bases.
+When measuring the distance between two units you always measure from/to the closest model in each unit.
+
+When measuring how far a model moves always measure so that no part of its base moves further than the total distance.
 
 ## Movement
 - Bases may not overlap or stack.
